@@ -1,0 +1,19 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Complete Flutter Assignment",
+        "description": "Implement CRUD using BLoC",
+        "status": "Pending",
+        "dueDate": "2024-03-20"
+      },
+      {
+        "id": 2,
+        "title": "Buy Groceries",
+        "description": "Milk, Eggs, Bread",
+        "status": "Completed",
+        "dueDate": "2024-03-18"
+      }
+    ]
+  }
+  
